@@ -1,7 +1,6 @@
 # Space_Invaders_Game
-This is game is mainly designed by using Object-oriented programming and pygame package.
-I created a lot of classes to define what the player spaceship and enemies spaceships should move in the game. What should the game react when you do something. 
-You need to use WASD to control your own spaceship and space key to shoot. 
+This is game is mainly designed by using object-oriented programming and pygame package.
+I created a lot of classes to define what the player spaceship and enemies spaceships should move in the game. What should the game react when the player controls his spaceship.
 
 Here are some steps
 
